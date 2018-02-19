@@ -24,6 +24,6 @@ Hardware materials needed,
 Now comes the heavy part,
 prepare your retropie card with the needed libraries to get it up and running.
 
-<will be explaned in the next comming days...>
+![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `will be explaned in the next comming days...`
  
 
