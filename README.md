@@ -26,7 +26,7 @@ prepare your retropie card with the needed libraries to get it up and running.
 
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `will be explaned in the next comming days...`
  
-```python
+```text
 #Installing Joy-it 5" display driver
 
 connect your raspberry pi 3 controller board with ethernet in the same network of your linux pc.
