@@ -14,7 +14,7 @@ Hardware materials needed,
 - 3D printer to build your case or goto a reseller to let it build
 - A piece of carbon sticker if you like our design
 - Powerbank to feed the game controller
-- Main adapter to refill your powerbank or feed your game controller directly
+- Mains adapter to refill your powerbank or feed your game controller directly
 - You need wire with usb a on it
 - Power toggle switch
 - Memory SD card with retropie on it / google for it, you will find many resources
