@@ -27,6 +27,17 @@ prepare your retropie card with the needed libraries to get it up and running.
 ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `will be explaned in the next comming days...`
  
 ```python
-#Installing 
+#Installing Joy-it 5" display driver
+
+connect your raspberry pi 3 controller board with ethernet in the same network of your linux pc.
+connect raspberry pi with usb to ethernet adapter.
+If you did not have a ethernet adapter attach your raspberry pi with hdmi on a monitor.
+Attach a keyboard on the raspberry pi.
+
+Startup raspberry pi with retropie sd card attached.
+After restart you will be asked to define a keyboard or controller.
+Press on your keyboard until keyboard has been accepted.
+
+open terminal in your linux pc
 
 ```
