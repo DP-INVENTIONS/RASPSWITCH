@@ -1,9 +1,8 @@
 # RASPSWITCH
 Open source handheld retro gaming console
 
-<p align="center">
-    https://cdn.hackaday.io/images/6480451519077310990.jpg
-</p>
+![alt tag](https://cdn.hackaday.io/images/6480451519077310990.jpg)
+    
 
 
 All your favorite retro games playable in one case!
