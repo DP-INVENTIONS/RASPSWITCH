@@ -1,7 +1,10 @@
 # RASPSWITCH
 Open source handheld retro gaming console
 
-![alt text]https://cdn.hackaday.io/images/6480451519077310990.jpg
+<p align="center">
+    https://cdn.hackaday.io/images/6480451519077310990.jpg
+</p>
+
 
 All your favorite retro games playable in one case!
 Handheld controller based on a raspberry pi 3 board.
