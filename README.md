@@ -55,7 +55,10 @@ Once logged in you will see the welcome screen (See picture above).
 At the Bash prompt type the following command to get root (admin) access on the system.
 sudo -i
 
+```
 ![RaspSwitch](https://drive.google.com/file/d/1Okyu_tFTrQ51pi7MzkOAIZwTyVYDMYH0/view?usp=sharing)
+
+```text
 
 1.3 Download the display driver.
 Type the following commands:
