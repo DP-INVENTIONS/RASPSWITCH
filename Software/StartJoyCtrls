@@ -1,2 +1,2 @@
-screen -d -m -S JoyCon-L /home/pi/Joycontroller/JoyCtrl.py L
-screen -d -m -S JoyCon-R /home/pi/Joycontroller/JoyCtrl.py R
+screen -d -m -S JoyCon-L /home/pi/JoyController/JoyCtrl.py L
+screen -d -m -S JoyCon-R /home/pi/JoyController/JoyCtrl.py R
