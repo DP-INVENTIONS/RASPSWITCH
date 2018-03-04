@@ -36,14 +36,19 @@ Choose either one of both steps before continuing to step 3
 1. SSH
 1.1 Find the IP of your Raspberry Pi on your LAN.
 Attach raspberry pi to you network with an ethernet cable.
-You need a DHCP server in your network for the raspberry pi to automatically get an IP address in your local address range.  When the raspberry pi is started it gets an IP address from the DHCP server.  You can search your LAN for the IP address of the Raspberry Pi with a network scan tool like ‘Fing’ on your pc, tablet or mobile phone.
+You need a DHCP server in your network for the raspberry pi to automatically get an 
+IP address in your local address range.  
+When the raspberry pi is started it gets an IP address from the DHCP server.  
+You can search your LAN for the IP address of the Raspberry Pi with a network scan 
+tool like ‘Fing’ on your pc, tablet or mobile phone.
 Once you found the IP address of your Pi, make a note of it.
 
  
 Replace the IP address with the IP address of your Raspberry Pi
 
 1.2 Connect to your Raspberry Pi over SSH.
-Open a terminal on your pc, mac or linux computer and SSH into the Raspberry Pi. Type the following commands to connect to your Pi.
+Open a terminal on your pc, mac or linux computer and SSH into the Raspberry Pi. 
+Type the following commands to connect to your Pi.
 ssh pi@<ip address raspberry pi>
 When asked type the password: raspberry
 Once logged in you will see the welcome screen (See picture above).
@@ -82,31 +87,31 @@ Press <spacebar> to set all keys.
 
 Now you can enter all keys as follow,
 
-D-PAD UP 			       > arrow up
-D-PAD DOWN		       > arrow down
-D-PAD LEFT			      > arrow left
-D-PAD RIGHT			     > arrow right
-START				          > alt left
-SELECT			          > alt right
-A				              > a  ( qwerty keyboard = q )
-B				              > b
-X				              > x
-Y				              > y
-LEFT SHOULDER		    > o
-RIGHT SHOULDER		   > u
-LEFT TRIGGER		     > p
-RIGHT TRIGGER		    > i
-LEFT THUMB			      > m ( qwerty keyboard = ; )
-RIGHT THUMB		      > n
-LEFT ANALOG UP		   > 3
-LEFT ANALOG DOWN	  > 4
-LEFT ANALOG LEFT		 > 5
-LEFT ANALOG RIGHT	 > 6
-RIGHT ANALOG UP		  > 7
-RIGHT ANALOG DOWN	 > 8
-RIGHT ANALOG LEFT	 > 9
-RIGHT ANALOG RIGHT	> 0
-HOTKEY ENABLE		    > escape key
+D-PAD UP > arrow up
+D-PAD DOWN > arrow down
+D-PAD LEFT > arrow left
+D-PAD RIGHT > arrow right
+START > alt left
+SELECT > alt right
+A > a  ( qwerty keyboard = q )
+B > b
+X > x
+Y > y
+LEFT SHOULDER > o
+RIGHT SHOULDER > u
+LEFT TRIGGER > p
+RIGHT TRIGGER > i
+LEFT THUMB > m ( qwerty keyboard = ; )
+RIGHT THUMB > n
+LEFT ANALOG UP > 3
+LEFT ANALOG DOWN > 4
+LEFT ANALOG LEFT > 5
+LEFT ANALOG RIGHT > 6
+RIGHT ANALOG UP > 7
+RIGHT ANALOG DOWN > 8
+RIGHT ANALOG LEFT > 9
+RIGHT ANALOG RIGHT > 0
+HOTKEY ENABLE > escape key
 
 Press spacebar to get into the emulator.
 Press left arrow key till ‘Configuration’ has been selected.
