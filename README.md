@@ -135,11 +135,17 @@ Grab your left Joy-Con ®  controller and press round button on the inside of
 the controller for about 5 seconds.
 The leds will be moving around.
 
- 
+ ```
+![RaspSwitch](https://github.com/DP-INVENTIONS/RASPSWITCH/blob/master/BITMAPS/joycon.jpg)
+
+```text
 
 Select ‘Register and Connect to Bluetooth Device’ and press enter.
 
- 
+ ```
+![RaspSwitch](https://github.com/DP-INVENTIONS/RASPSWITCH/blob/master/BITMAPS/emulationstation_bluetooth.png)
+
+```text
 
 Left Joy-Con (L) has been found, press enter to attach and select
 ‘NoInputNoOutput’ with arrow keys and press enter.
@@ -147,6 +153,11 @@ Press after acknowledgment enter again to get in main menu.
 Do exactly the same for the right Joy-Con ®  controller Joy-Con (R)
 Select in main menu ‘Cancel’ with arrow keys and press enter to get back
 in the emulator. Your Joy-Con ®  controllers are configured.
+
+ ```
+![RaspSwitch](https://github.com/DP-INVENTIONS/RASPSWITCH/blob/master/BITMAPS/emulationstation_bluetooth2.png)
+
+```text
 
 Now we have to put some programs to make your controllers to work with
 emulationstation.
