@@ -180,7 +180,10 @@ pip install python-uinput
 pip install libevdev
 pip install evdev
 
- 
+ ```
+![RaspSwitch](https://github.com/DP-INVENTIONS/RASPSWITCH/blob/master/BITMAPS/rc.local.png)
+
+```text
 
 Add the following line to /etc/rc.local before the line saying ‘exit 0’ as in the example above:
 /home/pi/JoyController/StartJoyCtrls &
@@ -193,7 +196,10 @@ add line and press ctrl x keys and press Y to save and exit.
 
 Adjust amount of GPU memory by editing /boot/config.txt
  
+ ```
+![RaspSwitch](https://github.com/DP-INVENTIONS/RASPSWITCH/blob/master/BITMAPS/config.txt.png)
 
+```text
 
 pico /boot/config.txt
 Add the following line to config.txt
