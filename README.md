@@ -83,12 +83,17 @@ After the installation your Raspberry Pi will reboot and the LCD screen should w
 3 Keyboard configuration
 Connect a USB keyboard to your raspberry Pi
 
- 
+```
+![RaspSwitch](https://github.com/DP-INVENTIONS/RASPSWITCH/blob/master/BITMAPS/emulationstation_bluetooth.png)
+
+```text
 
 Press <spacebar> to set all keys.
 
+```
+![RaspSwitch](https://github.com/DP-INVENTIONS/RASPSWITCH/blob/master/BITMAPS/emulationstation_bluetooth.png)
 
- 
+```text
 
 Now you can enter all keys as follow,
 
