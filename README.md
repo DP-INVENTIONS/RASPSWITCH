@@ -56,7 +56,7 @@ At the Bash prompt type the following command to get root (admin) access on the 
 sudo -i
 
 ```
-![RaspSwitch](https://drive.google.com/file/d/1Okyu_tFTrQ51pi7MzkOAIZwTyVYDMYH0/view?usp=sharing)
+![RaspSwitch](https://github.com/DP-INVENTIONS/RASPSWITCH/blob/master/BITMAPS/terminal%20login.png)
 
 ```text
 
